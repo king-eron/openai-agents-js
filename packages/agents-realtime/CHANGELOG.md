@@ -1,5 +1,11 @@
 # @openai/agents-realtime
 
+## 0.1.4
+
+### Patch Changes
+
+- 1d4984b: Realtime: expose Call ID in OpenAIRealtimeWebRTC
+
 ## 0.1.3
 
 ### Patch Changes
